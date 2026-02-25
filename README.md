@@ -6,6 +6,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/yuv03/coding-journal/tree/master/0724-find-pivot-index) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yuv03/coding-journal/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1732-find-the-highest-altitude](https://github.com/yuv03/coding-journal/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -18,4 +19,5 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/yuv03/coding-journal/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/yuv03/coding-journal/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
