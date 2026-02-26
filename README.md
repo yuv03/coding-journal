@@ -20,4 +20,12 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/yuv03/coding-journal/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/yuv03/coding-journal/tree/master/1732-find-the-highest-altitude) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/yuv03/coding-journal/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/yuv03/coding-journal/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
