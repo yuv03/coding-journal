@@ -33,4 +33,12 @@
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yuv03/coding-journal/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/yuv03/coding-journal/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/yuv03/coding-journal/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
