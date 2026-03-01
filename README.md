@@ -49,5 +49,18 @@
 ## Sorting
 |  |
 | ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/yuv03/coding-journal/tree/master/1657-determine-if-two-strings-are-close) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yuv03/coding-journal/tree/master/2300-successful-pairs-of-spells-and-potions) |
+## Hash Table
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/yuv03/coding-journal/tree/master/1657-determine-if-two-strings-are-close) |
+## String
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/yuv03/coding-journal/tree/master/1657-determine-if-two-strings-are-close) |
+## Counting
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/yuv03/coding-journal/tree/master/1657-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
