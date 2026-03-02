@@ -34,6 +34,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/yuv03/coding-journal/tree/master/0443-string-compression) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yuv03/coding-journal/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yuv03/coding-journal/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Binary Search
@@ -58,6 +59,7 @@
 ## String
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/yuv03/coding-journal/tree/master/0443-string-compression) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yuv03/coding-journal/tree/master/1657-determine-if-two-strings-are-close) |
 ## Counting
 |  |
