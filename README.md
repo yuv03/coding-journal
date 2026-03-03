@@ -6,6 +6,7 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/yuv03/coding-journal/tree/master/0162-find-peak-element) |
 | [0724-find-pivot-index](https://github.com/yuv03/coding-journal/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/yuv03/coding-journal/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/yuv03/coding-journal/tree/master/0875-koko-eating-bananas) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yuv03/coding-journal/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1732-find-the-highest-altitude](https://github.com/yuv03/coding-journal/tree/master/1732-find-the-highest-altitude) |
@@ -67,4 +68,12 @@
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/yuv03/coding-journal/tree/master/1657-determine-if-two-strings-are-close) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/yuv03/coding-journal/tree/master/0735-asteroid-collision) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/yuv03/coding-journal/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
