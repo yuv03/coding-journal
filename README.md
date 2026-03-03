@@ -64,6 +64,7 @@
 | ------- |
 | [0443-string-compression](https://github.com/yuv03/coding-journal/tree/master/0443-string-compression) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yuv03/coding-journal/tree/master/1657-determine-if-two-strings-are-close) |
+| [2390-removing-stars-from-a-string](https://github.com/yuv03/coding-journal/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -72,8 +73,10 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/yuv03/coding-journal/tree/master/0735-asteroid-collision) |
+| [2390-removing-stars-from-a-string](https://github.com/yuv03/coding-journal/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/yuv03/coding-journal/tree/master/0735-asteroid-collision) |
+| [2390-removing-stars-from-a-string](https://github.com/yuv03/coding-journal/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
