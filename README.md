@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/yuv03/coding-journal/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/yuv03/coding-journal/tree/master/0162-find-peak-element) |
 | [0724-find-pivot-index](https://github.com/yuv03/coding-journal/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/yuv03/coding-journal/tree/master/0735-asteroid-collision) |
@@ -86,5 +87,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/yuv03/coding-journal/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/yuv03/coding-journal/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
