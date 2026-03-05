@@ -32,6 +32,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/yuv03/coding-journal/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yuv03/coding-journal/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yuv03/coding-journal/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | ------- |
 | [0443-string-compression](https://github.com/yuv03/coding-journal/tree/master/0443-string-compression) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yuv03/coding-journal/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yuv03/coding-journal/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yuv03/coding-journal/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
@@ -79,6 +81,7 @@
 | ------- |
 | [0394-decode-string](https://github.com/yuv03/coding-journal/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/yuv03/coding-journal/tree/master/0735-asteroid-collision) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yuv03/coding-journal/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/yuv03/coding-journal/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
