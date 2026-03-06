@@ -97,4 +97,20 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/yuv03/coding-journal/tree/master/0605-can-place-flowers) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
