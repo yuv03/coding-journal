@@ -13,6 +13,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yuv03/coding-journal/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1732-find-the-highest-altitude](https://github.com/yuv03/coding-journal/tree/master/1732-find-the-highest-altitude) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yuv03/coding-journal/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2352-equal-row-and-column-pairs](https://github.com/yuv03/coding-journal/tree/master/2352-equal-row-and-column-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/yuv03/coding-journal/tree/master/1657-determine-if-two-strings-are-close) |
+| [2352-equal-row-and-column-pairs](https://github.com/yuv03/coding-journal/tree/master/2352-equal-row-and-column-pairs) |
 ## String
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/yuv03/coding-journal/tree/master/0735-asteroid-collision) |
+| [2352-equal-row-and-column-pairs](https://github.com/yuv03/coding-journal/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/yuv03/coding-journal/tree/master/2390-removing-stars-from-a-string) |
 ## Bit Manipulation
 |  |
@@ -116,4 +119,8 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/yuv03/coding-journal/tree/master/0872-leaf-similar-trees) |
+## Matrix
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/yuv03/coding-journal/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
