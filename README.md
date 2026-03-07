@@ -11,6 +11,7 @@
 | [0735-asteroid-collision](https://github.com/yuv03/coding-journal/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/yuv03/coding-journal/tree/master/0875-koko-eating-bananas) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yuv03/coding-journal/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/yuv03/coding-journal/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/yuv03/coding-journal/tree/master/1732-find-the-highest-altitude) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yuv03/coding-journal/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/yuv03/coding-journal/tree/master/2352-equal-row-and-column-pairs) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/yuv03/coding-journal/tree/master/0443-string-compression) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/yuv03/coding-journal/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yuv03/coding-journal/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yuv03/coding-journal/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yuv03/coding-journal/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -61,11 +63,13 @@
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/yuv03/coding-journal/tree/master/1657-determine-if-two-strings-are-close) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/yuv03/coding-journal/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yuv03/coding-journal/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/yuv03/coding-journal/tree/master/1657-determine-if-two-strings-are-close) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/yuv03/coding-journal/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2352-equal-row-and-column-pairs](https://github.com/yuv03/coding-journal/tree/master/2352-equal-row-and-column-pairs) |
 ## String
 |  |
