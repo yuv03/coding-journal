@@ -138,4 +138,16 @@
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/yuv03/coding-journal/tree/master/2352-equal-row-and-column-pairs) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/yuv03/coding-journal/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/yuv03/coding-journal/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/yuv03/coding-journal/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
