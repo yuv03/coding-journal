@@ -94,6 +94,7 @@
 | [0394-decode-string](https://github.com/yuv03/coding-journal/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/yuv03/coding-journal/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/yuv03/coding-journal/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/yuv03/coding-journal/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yuv03/coding-journal/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/yuv03/coding-journal/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -149,6 +150,7 @@
 ## Design
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/yuv03/coding-journal/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/yuv03/coding-journal/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -158,9 +160,11 @@
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/yuv03/coding-journal/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/yuv03/coding-journal/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/yuv03/coding-journal/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/yuv03/coding-journal/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
