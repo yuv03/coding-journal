@@ -23,6 +23,7 @@
 | ------- |
 | [0338-counting-bits](https://github.com/yuv03/coding-journal/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/yuv03/coding-journal/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/yuv03/coding-journal/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yuv03/coding-journal/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
@@ -175,4 +176,12 @@
 | ------- |
 | [0739-daily-temperatures](https://github.com/yuv03/coding-journal/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/yuv03/coding-journal/tree/master/0901-online-stock-span) |
+## Math
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/yuv03/coding-journal/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/yuv03/coding-journal/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
