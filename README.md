@@ -81,6 +81,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yuv03/coding-journal/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/yuv03/coding-journal/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/yuv03/coding-journal/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/yuv03/coding-journal/tree/master/0443-string-compression) |
@@ -95,6 +96,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yuv03/coding-journal/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/yuv03/coding-journal/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/yuv03/coding-journal/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/yuv03/coding-journal/tree/master/0739-daily-temperatures) |
