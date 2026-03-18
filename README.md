@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/yuv03/coding-journal/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/yuv03/coding-journal/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/yuv03/coding-journal/tree/master/0162-find-peak-element) |
 | [0605-can-place-flowers](https://github.com/yuv03/coding-journal/tree/master/0605-can-place-flowers) |
@@ -81,6 +82,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/yuv03/coding-journal/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/yuv03/coding-journal/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/yuv03/coding-journal/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/yuv03/coding-journal/tree/master/0394-decode-string) |
@@ -189,4 +191,8 @@
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/yuv03/coding-journal/tree/master/1137-n-th-tribonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/yuv03/coding-journal/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
