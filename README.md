@@ -133,6 +133,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/yuv03/coding-journal/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/yuv03/coding-journal/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/yuv03/coding-journal/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/yuv03/coding-journal/tree/master/0437-path-sum-iii) |
@@ -144,6 +145,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/yuv03/coding-journal/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/yuv03/coding-journal/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/yuv03/coding-journal/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/yuv03/coding-journal/tree/master/0437-path-sum-iii) |
@@ -155,6 +157,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/yuv03/coding-journal/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/yuv03/coding-journal/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/yuv03/coding-journal/tree/master/0199-binary-tree-right-side-view) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/yuv03/coding-journal/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -163,6 +166,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/yuv03/coding-journal/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/yuv03/coding-journal/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/yuv03/coding-journal/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/yuv03/coding-journal/tree/master/0437-path-sum-iii) |
