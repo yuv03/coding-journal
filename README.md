@@ -123,6 +123,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/yuv03/coding-journal/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/yuv03/coding-journal/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/yuv03/coding-journal/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/yuv03/coding-journal/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Greedy
@@ -215,4 +216,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yuv03/coding-journal/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/yuv03/coding-journal/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
