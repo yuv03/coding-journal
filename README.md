@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yuv03/coding-journal/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/yuv03/coding-journal/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/yuv03/coding-journal/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/yuv03/coding-journal/tree/master/0209-minimum-size-subarray-sum) |
 | [0605-can-place-flowers](https://github.com/yuv03/coding-journal/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/yuv03/coding-journal/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/yuv03/coding-journal/tree/master/0724-find-pivot-index) |
@@ -30,11 +31,13 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/yuv03/coding-journal/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/yuv03/coding-journal/tree/master/0643-maximum-average-subarray-i) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yuv03/coding-journal/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/yuv03/coding-journal/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/yuv03/coding-journal/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/yuv03/coding-journal/tree/master/1732-find-the-highest-altitude) |
 ## Linked List
@@ -62,6 +65,7 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/yuv03/coding-journal/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/yuv03/coding-journal/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/yuv03/coding-journal/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/yuv03/coding-journal/tree/master/0875-koko-eating-bananas) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yuv03/coding-journal/tree/master/2300-successful-pairs-of-spells-and-potions) |
