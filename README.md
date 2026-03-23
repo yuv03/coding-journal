@@ -27,6 +27,7 @@
 | [0338-counting-bits](https://github.com/yuv03/coding-journal/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/yuv03/coding-journal/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/yuv03/coding-journal/tree/master/1137-n-th-tribonacci-number) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yuv03/coding-journal/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
@@ -148,6 +149,7 @@
 | [0437-path-sum-iii](https://github.com/yuv03/coding-journal/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/yuv03/coding-journal/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/yuv03/coding-journal/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -161,6 +163,7 @@
 | [0437-path-sum-iii](https://github.com/yuv03/coding-journal/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/yuv03/coding-journal/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/yuv03/coding-journal/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -185,6 +188,7 @@
 | [0437-path-sum-iii](https://github.com/yuv03/coding-journal/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/yuv03/coding-journal/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/yuv03/coding-journal/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Matrix
 |  |
