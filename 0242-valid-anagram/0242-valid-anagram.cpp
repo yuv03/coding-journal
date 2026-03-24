@@ -1,0 +1,26 @@
+class Solution {
+public:
+    bool isAnagram(string s, string t) {
+        if (s.size() != t.size())
+            return false;
+
+        vector<int> svec(26, 0);
+        vector<int> tvec(26, 0);
+
+        for (int i = 0; i < s.size(); i++) {
+            svec[s[i] - 'a']++;
+        }
+
+        for (int i = 0; i < t.size(); i++) {
+            tvec[t[i] - 'a']++;
+        }
+
+        int i = 0;
+        while (i < 26) {
+            if (svec[i] != tvec[i])
+                return false;
+            i++;
+        }
+        return true;
+    }
+};
