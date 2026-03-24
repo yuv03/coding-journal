@@ -77,6 +77,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/yuv03/coding-journal/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yuv03/coding-journal/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yuv03/coding-journal/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/yuv03/coding-journal/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/yuv03/coding-journal/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/yuv03/coding-journal/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/yuv03/coding-journal/tree/master/0383-ransom-note) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -98,6 +100,7 @@
 | [0020-valid-parentheses](https://github.com/yuv03/coding-journal/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yuv03/coding-journal/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/yuv03/coding-journal/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/yuv03/coding-journal/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/yuv03/coding-journal/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/yuv03/coding-journal/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/yuv03/coding-journal/tree/master/0394-decode-string) |
