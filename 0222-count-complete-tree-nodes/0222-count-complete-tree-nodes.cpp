@@ -11,19 +11,7 @@
  */
 class Solution {
 public:
-
-    void countt(TreeNode* root, int &count){
-        if(root == NULL) return;
-        count++;
-        countt(root->left, count);
-        countt(root->right, count);
-    }
-
-
-
     int countNodes(TreeNode* root) {
-        int count=0;
-        countt(root, count);
-        return count;
+        return root==NULL ? 0 : countNodes(root->left) + countNodes(root->right) + 1;
     }
 };
