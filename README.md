@@ -69,6 +69,7 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/yuv03/coding-journal/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/yuv03/coding-journal/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/yuv03/coding-journal/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/yuv03/coding-journal/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/yuv03/coding-journal/tree/master/0875-koko-eating-bananas) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yuv03/coding-journal/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -136,6 +137,7 @@
 | ------- |
 | [0136-single-number](https://github.com/yuv03/coding-journal/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/yuv03/coding-journal/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/yuv03/coding-journal/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/yuv03/coding-journal/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/yuv03/coding-journal/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Greedy
@@ -153,6 +155,7 @@
 | [0112-path-sum](https://github.com/yuv03/coding-journal/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/yuv03/coding-journal/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/yuv03/coding-journal/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/yuv03/coding-journal/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/yuv03/coding-journal/tree/master/0437-path-sum-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -200,6 +203,7 @@
 | [0112-path-sum](https://github.com/yuv03/coding-journal/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/yuv03/coding-journal/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/yuv03/coding-journal/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/yuv03/coding-journal/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/yuv03/coding-journal/tree/master/0437-path-sum-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0637-average-of-levels-in-binary-tree) |
