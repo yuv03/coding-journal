@@ -1,0 +1,23 @@
+class Solution {
+public:
+    int removeElement(vector<int>& nums, int val) {
+        int count = 0;
+        vector<int> v;
+        int unique_element = 0;
+        for(int i=0; i<nums.size(); i++){
+            if(nums[i] != val){
+                unique_element++;
+                v.push_back(nums[i]);
+            } else {
+                count++;
+            }
+        }
+        
+        nums.clear();
+        nums = v;
+        nums.insert(nums.end(), count, val);
+        
+        return unique_element;
+    }
+    
+};
