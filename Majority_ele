@@ -1,0 +1,34 @@
+class Solution {
+public:
+    int majorityElement(vector<int>& nums) {
+
+        sort(nums.begin(), nums.end());
+        int temp = nums[0];
+        int temp_count = 1;
+        int maxi = nums[0];
+        int maxi_count = 1;
+
+        for(int i=1; i<nums.size(); i++){
+            if(nums[i]==temp){
+                temp_count++;
+            }
+            else{
+                if(temp_count > maxi_count){
+                    maxi_count = temp_count;
+                    maxi = temp;
+                    temp = nums[i];
+                    temp_count = 1;
+                }
+                else {
+                    temp = nums[i];
+                    temp_count = 1;
+                }
+            }
+        }
+        if(temp_count > maxi_count){
+            maxi_count = temp_count;
+            maxi = temp;
+        }
+        return maxi; 
+    }
+};
