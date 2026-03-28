@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/yuv03/coding-journal/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yuv03/coding-journal/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yuv03/coding-journal/tree/master/0027-remove-element) |
+| [0055-jump-game](https://github.com/yuv03/coding-journal/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/yuv03/coding-journal/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/yuv03/coding-journal/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/yuv03/coding-journal/tree/master/0209-minimum-size-subarray-sum) |
@@ -25,6 +26,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/yuv03/coding-journal/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/yuv03/coding-journal/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/yuv03/coding-journal/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/yuv03/coding-journal/tree/master/1137-n-th-tribonacci-number) |
@@ -143,6 +145,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/yuv03/coding-journal/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/yuv03/coding-journal/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/yuv03/coding-journal/tree/master/0649-dota2-senate) |
 ## Tree
