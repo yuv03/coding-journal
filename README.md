@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/yuv03/coding-journal/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/yuv03/coding-journal/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/yuv03/coding-journal/tree/master/0209-minimum-size-subarray-sum) |
+| [0274-h-index](https://github.com/yuv03/coding-journal/tree/master/0274-h-index) |
 | [0605-can-place-flowers](https://github.com/yuv03/coding-journal/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/yuv03/coding-journal/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/yuv03/coding-journal/tree/master/0724-find-pivot-index) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/yuv03/coding-journal/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/yuv03/coding-journal/tree/master/0274-h-index) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yuv03/coding-journal/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yuv03/coding-journal/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -259,4 +261,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/yuv03/coding-journal/tree/master/0191-number-of-1-bits) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/yuv03/coding-journal/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
