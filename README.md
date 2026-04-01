@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yuv03/coding-journal/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yuv03/coding-journal/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/yuv03/coding-journal/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/yuv03/coding-journal/tree/master/0056-merge-intervals) |
 | [0134-gas-station](https://github.com/yuv03/coding-journal/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/yuv03/coding-journal/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/yuv03/coding-journal/tree/master/0162-find-peak-element) |
@@ -85,6 +86,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/yuv03/coding-journal/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/yuv03/coding-journal/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/yuv03/coding-journal/tree/master/0274-h-index) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
