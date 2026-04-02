@@ -2,33 +2,74 @@ class Solution {
 public:
     string simplifyPath(string path) {
         stack<string> st;
-        string temp = "";
+        string ans = "";
+        string temp="";
+        int count = 0;
+        bool flag = false;
 
-        for(int i = 0; i <= path.size(); i++){
-            if(i == path.size() || path[i] == '/'){
-                if(temp == "" || temp == "."){
-                    // do nothing
-                }
-                else if(temp == ".."){
-                    if(!st.empty()) st.pop();
+        for(int i=0; i<path.size(); i++){
+            if(path[i]=='.'){
+                if(temp.size()>0){
+                    temp+= ".";
                 }
                 else{
-                    st.push(temp);
+                    flag = false;
+                    count++;
                 }
-                temp = "";
+            }
+            else if(path[i]=='/'){
+                if(count==2){
+                    if(!st.empty()){
+                        st.pop();
+                    }
+                    count=0;
+                }
+                else if(count > 2){
+                    while(count){
+                        temp += ".";
+                        count--;
+                    }
+                    st.push(temp);
+                    temp="";
+                }
+                flag = false;
+                count=0;
+
             }
             else{
+                if(count>0){
+                    while(count){
+                        temp += ".";
+                        count--;
+                    }
+                }
+                flag = true;
                 temp += path[i];
             }
-        }
 
-        string ans = "";
+            if(flag==false && temp.size()>0){
+                st.push(temp);
+                temp="";
+            }
+        }
+        if(temp.size()>0) st.push(temp);
+        if(count==2){
+            if(!st.empty()){
+                st.pop();
+            }
+        }
+        else if(count>2){
+            while(count){
+                temp += ".";
+                count--;
+            }
+            st.push(temp);
+        }
         while(!st.empty()){
             ans = "/" + st.top() + ans;
             st.pop();
         }
-
-        if(ans == "") return "/";
+        if(ans=="") return "/";
         return ans;
     }
 };
