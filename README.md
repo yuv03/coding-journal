@@ -111,6 +111,7 @@
 | [0014-longest-common-prefix](https://github.com/yuv03/coding-journal/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/yuv03/coding-journal/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yuv03/coding-journal/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0071-simplify-path](https://github.com/yuv03/coding-journal/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/yuv03/coding-journal/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/yuv03/coding-journal/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yuv03/coding-journal/tree/master/0242-valid-anagram) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yuv03/coding-journal/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/yuv03/coding-journal/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/yuv03/coding-journal/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/yuv03/coding-journal/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/yuv03/coding-journal/tree/master/0739-daily-temperatures) |
