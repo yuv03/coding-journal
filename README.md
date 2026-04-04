@@ -12,6 +12,7 @@
 | [0134-gas-station](https://github.com/yuv03/coding-journal/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/yuv03/coding-journal/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/yuv03/coding-journal/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuv03/coding-journal/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/yuv03/coding-journal/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/yuv03/coding-journal/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/yuv03/coding-journal/tree/master/0274-h-index) |
@@ -66,6 +67,7 @@
 | [0027-remove-element](https://github.com/yuv03/coding-journal/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yuv03/coding-journal/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/yuv03/coding-journal/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuv03/coding-journal/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/yuv03/coding-journal/tree/master/0443-string-compression) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yuv03/coding-journal/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yuv03/coding-journal/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/yuv03/coding-journal/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuv03/coding-journal/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/yuv03/coding-journal/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/yuv03/coding-journal/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/yuv03/coding-journal/tree/master/0374-guess-number-higher-or-lower) |
