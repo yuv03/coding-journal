@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/yuv03/coding-journal/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/yuv03/coding-journal/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/yuv03/coding-journal/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yuv03/coding-journal/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yuv03/coding-journal/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/yuv03/coding-journal/tree/master/0055-jump-game) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yuv03/coding-journal/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/yuv03/coding-journal/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yuv03/coding-journal/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yuv03/coding-journal/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yuv03/coding-journal/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -92,6 +94,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yuv03/coding-journal/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/yuv03/coding-journal/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/yuv03/coding-journal/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/yuv03/coding-journal/tree/master/0274-h-index) |
