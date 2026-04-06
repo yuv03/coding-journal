@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/yuv03/coding-journal/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/yuv03/coding-journal/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/yuv03/coding-journal/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yuv03/coding-journal/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yuv03/coding-journal/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -72,6 +73,7 @@
 | [0027-remove-element](https://github.com/yuv03/coding-journal/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yuv03/coding-journal/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/yuv03/coding-journal/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/yuv03/coding-journal/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/yuv03/coding-journal/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuv03/coding-journal/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/yuv03/coding-journal/tree/master/0443-string-compression) |
