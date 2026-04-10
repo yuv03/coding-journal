@@ -35,6 +35,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/yuv03/coding-journal/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/yuv03/coding-journal/tree/master/0338-counting-bits) |
+| [0509-fibonacci-number](https://github.com/yuv03/coding-journal/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/yuv03/coding-journal/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/yuv03/coding-journal/tree/master/1137-n-th-tribonacci-number) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/yuv03/coding-journal/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/yuv03/coding-journal/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/yuv03/coding-journal/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -266,10 +268,12 @@
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/yuv03/coding-journal/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/yuv03/coding-journal/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/yuv03/coding-journal/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/yuv03/coding-journal/tree/master/1137-n-th-tribonacci-number) |
 ## Trie
 |  |
