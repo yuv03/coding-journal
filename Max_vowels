@@ -1,0 +1,32 @@
+class Solution {
+public:
+    int maxVowels(string s, int k) {
+        int i =0;
+        int temp = 0;
+        while (i<k){
+            if (s[i]=='a' || s[i]=='e' || s[i]=='i' || s[i]=='o' || s[i]=='u' ){
+                temp++;
+            }
+            i++;
+        }
+
+        int m = 0;
+        int n = k-1;
+        int vow = temp;
+
+        while(n<s.size()-1){
+            vow = max(temp, vow);
+            n++;
+            if (s[n]=='a' || s[n]=='e' || s[n]=='i' || s[n]=='o' || s[n]=='u' ){
+                temp++;
+            }
+            if (s[m]=='a' || s[m]=='e' || s[m]=='i' || s[m]=='o' || s[m]=='u' ){
+                temp--;
+            }
+            m++;
+        }
+        vow = max(temp, vow);
+        
+        return vow;
+    }
+};
