@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/yuv03/coding-journal/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/yuv03/coding-journal/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/yuv03/coding-journal/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/yuv03/coding-journal/tree/master/0078-subsets) |
 | [0134-gas-station](https://github.com/yuv03/coding-journal/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/yuv03/coding-journal/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/yuv03/coding-journal/tree/master/0162-find-peak-element) |
@@ -161,6 +162,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/yuv03/coding-journal/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/yuv03/coding-journal/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/yuv03/coding-journal/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/yuv03/coding-journal/tree/master/0222-count-complete-tree-nodes) |
@@ -291,4 +293,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/yuv03/coding-journal/tree/master/0274-h-index) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/yuv03/coding-journal/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
