@@ -192,6 +192,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yuv03/coding-journal/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/yuv03/coding-journal/tree/master/0872-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/yuv03/coding-journal/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -208,6 +209,7 @@
 | [0437-path-sum-iii](https://github.com/yuv03/coding-journal/tree/master/0437-path-sum-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/yuv03/coding-journal/tree/master/0872-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/yuv03/coding-journal/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -241,6 +243,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yuv03/coding-journal/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/yuv03/coding-journal/tree/master/0872-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/yuv03/coding-journal/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -303,4 +306,5 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/yuv03/coding-journal/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/yuv03/coding-journal/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
