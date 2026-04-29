@@ -11,20 +11,24 @@
  */
 class Solution {
 public:
-    int goodNodes(TreeNode* root) {
-        return dfs(root, root->val);
+    void gudnode(TreeNode* root, int max, int &count){
+        if (root == NULL) return ;
+
+        if (root->val >= max){
+            count++;
+            max = root->val;
+        }
+
+        gudnode(root->left, max, count);
+        gudnode(root->right, max, count);
     }
-private:
-    int dfs(TreeNode* node, int maxSoFar) {
-        if (!node) return 0; // base case
-        // check if current node is good
+
+
+    
+    int goodNodes(TreeNode* root) {
+        int max = root->val;
         int count = 0;
-        if (node->val >= maxSoFar) count = 1;
-        // update currMax for children
-        maxSoFar = std::max(maxSoFar, node->val);
-        // recurse
-        count += dfs(node->left, maxSoFar);
-        count += dfs(node->right, maxSoFar);
+        gudnode(root, max, count);
         return count;
     }
 };
