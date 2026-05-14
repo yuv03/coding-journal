@@ -209,6 +209,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/yuv03/coding-journal/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/yuv03/coding-journal/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/yuv03/coding-journal/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/yuv03/coding-journal/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/yuv03/coding-journal/tree/master/0938-range-sum-of-bst) |
@@ -225,6 +226,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/yuv03/coding-journal/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/yuv03/coding-journal/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/yuv03/coding-journal/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -309,4 +311,12 @@
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/yuv03/coding-journal/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/yuv03/coding-journal/tree/master/0938-range-sum-of-bst) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/yuv03/coding-journal/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/yuv03/coding-journal/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
