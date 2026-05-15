@@ -16,6 +16,7 @@
 | [0136-single-number](https://github.com/yuv03/coding-journal/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/yuv03/coding-journal/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuv03/coding-journal/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/yuv03/coding-journal/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/yuv03/coding-journal/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/yuv03/coding-journal/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/yuv03/coding-journal/tree/master/0274-h-index) |
@@ -207,6 +208,7 @@
 | [0112-path-sum](https://github.com/yuv03/coding-journal/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/yuv03/coding-journal/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/yuv03/coding-journal/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/yuv03/coding-journal/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/yuv03/coding-journal/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/yuv03/coding-journal/tree/master/0547-number-of-provinces) |
@@ -226,6 +228,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/yuv03/coding-journal/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/yuv03/coding-journal/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/yuv03/coding-journal/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/yuv03/coding-journal/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -255,6 +258,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/yuv03/coding-journal/tree/master/0200-number-of-islands) |
 | [2352-equal-row-and-column-pairs](https://github.com/yuv03/coding-journal/tree/master/2352-equal-row-and-column-pairs) |
 ## Design
 |  |
@@ -314,6 +318,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/yuv03/coding-journal/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/yuv03/coding-journal/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
