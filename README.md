@@ -21,6 +21,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/yuv03/coding-journal/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/yuv03/coding-journal/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/yuv03/coding-journal/tree/master/0274-h-index) |
+| [0542-01-matrix](https://github.com/yuv03/coding-journal/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/yuv03/coding-journal/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/yuv03/coding-journal/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/yuv03/coding-journal/tree/master/0724-find-pivot-index) |
@@ -40,6 +41,7 @@
 | [0055-jump-game](https://github.com/yuv03/coding-journal/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/yuv03/coding-journal/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/yuv03/coding-journal/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/yuv03/coding-journal/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/yuv03/coding-journal/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/yuv03/coding-journal/tree/master/1137-n-th-tribonacci-number) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -233,6 +235,7 @@
 | [0130-surrounded-regions](https://github.com/yuv03/coding-journal/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/yuv03/coding-journal/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/yuv03/coding-journal/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/yuv03/coding-journal/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/yuv03/coding-journal/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -265,6 +268,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/yuv03/coding-journal/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/yuv03/coding-journal/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/yuv03/coding-journal/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/yuv03/coding-journal/tree/master/0994-rotting-oranges) |
 | [2352-equal-row-and-column-pairs](https://github.com/yuv03/coding-journal/tree/master/2352-equal-row-and-column-pairs) |
 ## Design
