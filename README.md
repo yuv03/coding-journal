@@ -17,6 +17,7 @@
 | [0136-single-number](https://github.com/yuv03/coding-journal/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/yuv03/coding-journal/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuv03/coding-journal/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/yuv03/coding-journal/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/yuv03/coding-journal/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/yuv03/coding-journal/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/yuv03/coding-journal/tree/master/0228-summary-ranges) |
@@ -110,6 +111,7 @@
 | ------- |
 | [0015-3sum](https://github.com/yuv03/coding-journal/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/yuv03/coding-journal/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/yuv03/coding-journal/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/yuv03/coding-journal/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/yuv03/coding-journal/tree/master/0274-h-index) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yuv03/coding-journal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -119,6 +121,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yuv03/coding-journal/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/yuv03/coding-journal/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yuv03/coding-journal/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/yuv03/coding-journal/tree/master/0290-word-pattern) |
@@ -148,6 +151,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yuv03/coding-journal/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/yuv03/coding-journal/tree/master/0383-ransom-note) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yuv03/coding-journal/tree/master/1657-determine-if-two-strings-are-close) |
 ## Stack
@@ -316,6 +320,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yuv03/coding-journal/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/yuv03/coding-journal/tree/master/0191-number-of-1-bits) |
 ## Counting Sort
 |  |
