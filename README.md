@@ -86,6 +86,7 @@
 | [0086-partition-list](https://github.com/yuv03/coding-journal/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/yuv03/coding-journal/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuv03/coding-journal/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0345-reverse-vowels-of-a-string](https://github.com/yuv03/coding-journal/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/yuv03/coding-journal/tree/master/0443-string-compression) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yuv03/coding-journal/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/yuv03/coding-journal/tree/master/1768-merge-strings-alternately) |
@@ -141,6 +142,7 @@
 | [0205-isomorphic-strings](https://github.com/yuv03/coding-journal/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yuv03/coding-journal/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/yuv03/coding-journal/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/yuv03/coding-journal/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/yuv03/coding-journal/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/yuv03/coding-journal/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/yuv03/coding-journal/tree/master/0443-string-compression) |
