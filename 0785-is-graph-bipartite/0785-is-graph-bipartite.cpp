@@ -1,40 +1,34 @@
 class Solution {
-public:
 
-    bool detect(int node, vector<vector<int>>& graph, vector<int>& vis) {
+private:
 
-        vis[node] = 0;
+    bool dfs(int src, int color,
+             vector<vector<int>>& graph,
+             vector<int>& vis) {
 
-        queue<int> q;
-        q.push(node);
+        vis[src] = color;
 
-        while (!q.empty()) {
+        for (auto adjVal : graph[src]) {
 
-            int val = q.front();
-            q.pop();
+            // Same color adjacent node
+            if (vis[adjVal] == vis[src]) {
+                return false;
+            }
 
-            for (auto adjVal : graph[val]) {
+            // Not visited
+            else if (vis[adjVal] == -1) {
 
-                // Same color found
-                if (vis[adjVal] == vis[val]) {
+                // Assign opposite color
+                if (!dfs(adjVal, 1 - color, graph, vis)) {
                     return false;
-                }
-
-                // Not visited
-                else if (vis[adjVal] == -1) {
-
-                    if (vis[val] == 0)
-                        vis[adjVal] = 1;
-                    else
-                        vis[adjVal] = 0;
-
-                    q.push(adjVal);
                 }
             }
         }
 
         return true;
     }
+
+public:
 
     bool isBipartite(vector<vector<int>>& graph) {
 
@@ -46,7 +40,7 @@ public:
 
             if (vis[i] == -1) {
 
-                if (!detect(i, graph, vis)) {
+                if (!dfs(i, 0, graph, vis)) {
                     return false;
                 }
             }
