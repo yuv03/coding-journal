@@ -1,0 +1,47 @@
+class Solution {
+private:
+
+    void dfs(int src,
+             vector<int> adj[],
+             vector<int>& vis,
+             stack<int>& st) {
+
+        vis[src] = 1;
+
+        for (auto adjVal : adj[src]) {
+
+            if (!vis[adjVal]) {
+                dfs(adjVal, adj, vis, st);
+            }
+        }
+
+        // Push after visiting all neighbours
+        st.push(src);
+    }
+
+public:
+
+    vector<int> topoSort(int V, vector<int> adj[]) {
+
+        vector<int> vis(V, 0);
+        stack<int> st;
+
+        // Run DFS for all components
+        for (int i = 0; i < V; i++) {
+
+            if (!vis[i]) {
+                dfs(i, adj, vis, st);
+            }
+        }
+
+        vector<int> ans;
+
+        // Stack gives topological order
+        while (!st.empty()) {
+            ans.push_back(st.top());
+            st.pop();
+        }
+
+        return ans;
+    }
+};
