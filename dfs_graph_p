@@ -1,0 +1,25 @@
+class Solution {
+  private: 
+    void solve(int src, vector<vector<int>>& adj, vector<int> &vis, vector<int>& ans){
+        vis[src] = 1;
+        ans.push_back(src);
+        
+        for(auto i : adj[src]){
+            if(!vis[i]) solve(i, adj, vis, ans);
+        }
+    }
+  public:
+    vector<int> dfs(vector<vector<int>>& adj) {
+        // Code here
+        vector<int> vis(adj.size(), 0);
+        vector<int> ans;
+        int start_node = 0;
+        
+        
+        
+        for(int i=0; i<adj.size(); i++){
+            if(!vis[i]) solve(i, adj, vis, ans);
+        }
+        return ans;
+    }
+};
