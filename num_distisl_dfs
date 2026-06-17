@@ -1,0 +1,41 @@
+// User function Template for C++
+
+class Solution {
+	
+	private:
+	void dfs(int n, int m, int row, int col, pair<int, int> &src, vector<vector<int>> &grid, vector<vector<int>> &vis, vector<pair<int, int>> &temp) {
+		vis[row][col] =1;
+		temp.push_back({row-src.first, col-src.second});
+		
+		int delRow[] = {-1,0,1,0};
+		int delCol[] = {0,1,0,-1};
+		
+		for(int i=0; i<4; i++){
+		    int r = row + delRow[i];
+		    int c = col + delCol[i];
+		    
+		    if(r>=0 && r<n && c>=0 && c<m && !vis[r][c] && grid[r][c]==1 ) dfs(n, m, r, c, src, grid, vis, temp);
+		}
+	}
+	public:
+	int countDistinctIslands(vector<vector<int>> & grid) {
+	    set<vector<pair<int, int>>> st;
+	    
+		int n = grid.size();
+		int m = grid[0].size();
+		vector<vector<int>> vis(n, vector<int>(m, 0));
+		
+		for (int i = 0; i<n; i++) {
+			for (int j = 0; j<m; j++) {
+				if (!vis[i][j] && grid[i][j]==1) {
+				    pair<int,int> src = {i,j};
+				    vector<pair<int, int>> temp;
+					dfs(n, m, i, j, src, grid, vis, temp);
+					st.insert(temp);
+				}
+			}
+		}
+		return st.size();
+		
+	}
+};
