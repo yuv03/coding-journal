@@ -1,0 +1,61 @@
+class Solution {
+private:
+void dfs(int row, int col, int m, int n, vector<vector<char>>& board){
+    board[row][col]='#';
+    int delRow[] = {-1,0,1,0};
+    int delCol[] = {0,1,0,-1};
+
+    for(int i=0; i<4; i++){
+        int nRow = row + delRow[i];
+        int nCol = col + delCol[i];
+
+        if(nRow>=0 && nRow<m && nCol>=0 && nCol<n && board[nRow][nCol]=='O'){
+            dfs(nRow,nCol,m,n,board);
+        }
+    }
+}
+public:
+    void solve(vector<vector<char>>& board) {
+        int m = board.size();
+        int n = board[0].size();
+
+        // Traversing the first column and last column
+        for(int i=0; i<m; i++){
+            // First column
+            if(board[i][0]=='O'){
+                dfs(i,0,m,n,board);
+            }
+
+            // Last Column
+            if(board[i][n-1]=='O'){
+                dfs(i,n-1,m,n,board);
+            }
+        }
+
+
+        // Traversing the first row and last row
+        for(int i=0; i<n; i++){
+            // First row
+            if(board[0][i]=='O'){
+                dfs(0,i,m,n,board);
+            }
+
+            // Last row
+            if(board[m-1][i]=='O'){
+                dfs(m-1,i,m,n,board);
+            }
+        }
+
+        // Traversing the full board and converting every O to X
+        for(int i=0; i<m; i++){
+            for(int j=0; j<n; j++){
+                if(board[i][j]=='O'){
+                    board[i][j]='X';
+                }
+                else if(board[i][j]=='#'){
+                    board[i][j]='O';
+                }
+            }
+        }
+    }
+};
