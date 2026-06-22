@@ -1,51 +1,32 @@
 class Solution {
-
-private:
-
-    bool dfs(int src, int color,
-             vector<vector<int>>& graph,
-             vector<int>& vis) {
-
-        vis[src] = color;
-
-        for (auto adjVal : graph[src]) {
-
-            // Same color adjacent node
-            if (vis[adjVal] == vis[src]) {
-                return false;
-            }
-
-            // Not visited
-            else if (vis[adjVal] == -1) {
-
-                // Assign opposite color
-                if (!dfs(adjVal, 1 - color, graph, vis)) {
-                    return false;
-                }
-            }
-        }
-
-        return true;
-    }
-
 public:
-
     bool isBipartite(vector<vector<int>>& graph) {
 
-        int V = graph.size();
+        for (int i = 0; i < graph.size(); i++) {
+            vector<int> color(graph.size(), -1);
+            queue<int> q;
+            color[i] = 0;
+            q.push(i);
 
-        vector<int> vis(V, -1);
+            while (!q.empty()) {
 
-        for (int i = 0; i < V; i++) {
+                int node = q.front();
+                q.pop();
 
-            if (vis[i] == -1) {
-
-                if (!dfs(i, 0, graph, vis)) {
-                    return false;
+                for (auto adjacentNode : graph[node]) {
+                    if (color[adjacentNode] == -1) {
+                        q.push(adjacentNode);
+                        if (color[node] == 0) {
+                            color[adjacentNode] = 1;
+                        } else {
+                            color[adjacentNode] = 0;
+                        }
+                    } else if (color[adjacentNode] == color[node]) {
+                        return false;
+                    }
                 }
             }
         }
-
         return true;
     }
 };
