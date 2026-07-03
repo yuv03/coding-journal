@@ -63,6 +63,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yuv03/coding-journal/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/yuv03/coding-journal/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/yuv03/coding-journal/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/yuv03/coding-journal/tree/master/0206-reverse-linked-list) |
@@ -71,6 +72,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yuv03/coding-journal/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/yuv03/coding-journal/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/yuv03/coding-journal/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/yuv03/coding-journal/tree/master/0509-fibonacci-number) |
@@ -310,6 +312,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yuv03/coding-journal/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/yuv03/coding-journal/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/yuv03/coding-journal/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
