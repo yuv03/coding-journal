@@ -22,6 +22,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/yuv03/coding-journal/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/yuv03/coding-journal/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/yuv03/coding-journal/tree/master/0274-h-index) |
+| [0334-increasing-triplet-subsequence](https://github.com/yuv03/coding-journal/tree/master/0334-increasing-triplet-subsequence) |
 | [0542-01-matrix](https://github.com/yuv03/coding-journal/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/yuv03/coding-journal/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/yuv03/coding-journal/tree/master/0643-maximum-average-subarray-i) |
@@ -190,6 +191,7 @@
 | [0011-container-with-most-water](https://github.com/yuv03/coding-journal/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/yuv03/coding-journal/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/yuv03/coding-journal/tree/master/0134-gas-station) |
+| [0334-increasing-triplet-subsequence](https://github.com/yuv03/coding-journal/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/yuv03/coding-journal/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/yuv03/coding-journal/tree/master/0649-dota2-senate) |
 ## Tree
