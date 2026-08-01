@@ -1,3 +1,4 @@
+// Good question
 class Solution {
 public:
     string predictPartyVictory(string senate) {
